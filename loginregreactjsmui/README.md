@@ -3,6 +3,7 @@
 ## To Run this Project via NPM follow below:
 
 npm install
+
 npm start
 ```
 
